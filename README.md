@@ -33,7 +33,7 @@ Quizzy is an interactive iOS quiz application built using **UIKit and Storyboard
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/quizzy-ios.git
+   git clone https://github.com/wildanalifr/quizzy-ios.git
    ```
 2. Open `Quizzy.xcodeproj` in Xcode.
 3. Run the app on a simulator or a real device.
